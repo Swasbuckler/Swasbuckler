@@ -2,9 +2,10 @@
 
 ## 🔭 I’m currently working on [Creative-Coding](https://github.com/Swasbuckler/Creative-Coding).
 
-## 🌱 I’m currently improving my critical thinking skills through TypeScript.
+## 🌱 I’m currently improving my critical thinking skills through TypeScript Projects.
 
-## 🤝 I’m willing to collaborate on any project that work within my technical knowledge, but I am open to work on any Project that are interested of my help as I look forward to learning / experiencing something new.
+## 🤝 I’m willing to collaborate on any project that work within my technical knowledge. 
+*but I am open to work on any Project that are interested of my help as I look forward to learning / experiencing something new.*
 
 ## 📚 My Practical Tech Stack:
 ### Frontend
@@ -29,7 +30,7 @@
 * TensorFlow
 * Hugging Faces
 
-## 📫 How to reach me through my [LinkedIn](www.linkedin.com/in/andy-hadian-shah).
+## 📫 You can reach me through my [LinkedIn](www.linkedin.com/in/andy-hadian-shah).
 
 <!--
 **Swasbuckler/Swasbuckler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
