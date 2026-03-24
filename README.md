@@ -1,6 +1,7 @@
 ## Hi there 👋, the name's Andy Hadian Shah
 
 ## 🔭 I’m currently working on [Creative-Coding](https://github.com/Swasbuckler/Creative-Coding).
+*You can access it on [GitHub Pages](https://swasbuckler.github.io/Creative-Coding/)*
 
 ## 🌱 I’m currently improving my critical thinking skills through TypeScript Projects.
 
